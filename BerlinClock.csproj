@@ -57,7 +57,7 @@
       <DependentUpon>BerlinClockFeatureSteps.feature</DependentUpon>
     </Compile>
     <Compile Include="Classes\ITimeConverter.cs" />
-    <Compile Include="Classes\TimeConverter.cs" />
+    <Compile Include="Classes\BerlinClockConverter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
